@@ -1,0 +1,90 @@
+
+
+.col-10{
+    background-color:rgb(243, 243, 118);
+    margin-right:100px;
+  
+  }
+
+    .col-6{
+      background-color:white;}
+      
+    
+
+.for{
+    padding-top:20px;padding-bottom:;padding-right:40px;padding-left: 40px;
+}
+
+h1{
+    color:black; font-size:33px;
+}
+
+img{
+    
+}
+
+
+button{
+    
+    font-size:25px;
+    
+  
+    white-space: 20px;
+    color:white;
+    width:200px;
+    height:55px;
+    background-color: #ff6607;
+    border-color:  #ff6607;
+ 
+  #ro{
+    padding-top:30px ;
+     padding-bottom:80px;
+      padding-left:40px;
+       padding-right: 40px;
+  }
+  span{
+font-family:blod;
+font-weight: bold;
+  }
+  #i1{
+    
+  }
+  .p1{
+    font-size:20px;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #in1{
+    margin-left:3rem;
+  }
+  #in2{
+    margin-left:3rem;
+  }
+  #in3{
+    margin-left:3rem;
+  }
+  #in4{
+    margin-left:3rem;
+  }
+  #in5{
+    margin-left:3rem;
+  }
+  .r1{
+    padding-top:20px ; padding-bottom:10px;
+    margin-left:183px;
+    background-color:rgb(243, 243, 118);}
+
+  }
+
+
+  .tircha-div {
+    width: 200px; /* Div ki width */
+    height: 100px; /* Div ki height */
+    background-color: #f0f0f0; /* Div ka background color */
+    transform: skewX(-20deg); /* Div ko tircha karna */
+    padding: 20px; /* Div ke andar ka padding */
+  }
+  
+
+ 
+
